@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:AeroVal"
+      name = "AeroVal">
+      <FileRef
+         location = "group:main.ino">
+      </FileRef>
+      <Group
+         location = "group:libraries"
+         name = "libraries">
+         <Group
+            location = "group:accel"
+            name = "accel">
+            <FileRef
+               location = "group:bma180.h">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:global"
+            name = "global">
+            <FileRef
+               location = "group:globalVariables.h">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:gyro"
+            name = "gyro">
+            <FileRef
+               location = "group:itg3200.h">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:i2c"
+            name = "i2c">
+            <FileRef
+               location = "group:i2cFunctions.h">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:kinematics"
+            name = "kinematics">
+            <FileRef
+               location = "group:kinematics.h">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:maths"
+            name = "maths">
+            <FileRef
+               location = "group:maths.h">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:motors"
+            name = "motors">
+            <FileRef
+               location = "group:motors.h">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:receiver"
+            name = "receiver">
+            <FileRef
+               location = "group:receiver.h">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:receiverAnalyze"
+            name = "receiverAnalyze">
+            <FileRef
+               location = "group:receiverAnalyze.h">
+            </FileRef>
+         </Group>
+      </Group>
+   </Group>
+   <Group
+      location = "group:Extras"
+      name = "Extras">
+      <Group
+         location = "group:baseflight-configurator"
+         name = "baseflight-configurator">
+         <FileRef
+            location = "group:background.js">
+         </FileRef>
+         <Group
+            location = "group:css"
+            name = "css">
+            <FileRef
+               location = "group:style.css">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:images"
+            name = "images">
+            <FileRef
+               location = "group:btn_donate_SM.gif">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:js"
+            name = "js">
+            <FileRef
+               location = "group:flotr2.min.js">
+            </FileRef>
+            <FileRef
+               location = "group:jquery-1.9.1.min.js">
+            </FileRef>
+            <FileRef
+               location = "group:main.js">
+            </FileRef>
+            <FileRef
+               location = "group:serial_backend.js">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:LICENSE">
+         </FileRef>
+         <FileRef
+            location = "group:main.html">
+         </FileRef>
+         <FileRef
+            location = "group:manifest.json">
+         </FileRef>
+         <FileRef
+            location = "group:README.md">
+         </FileRef>
+         <Group
+            location = "group:tabs"
+            name = "tabs">
+            <FileRef
+               location = "group:about.html">
+            </FileRef>
+            <FileRef
+               location = "group:auxiliary_configuration.html">
+            </FileRef>
+            <FileRef
+               location = "group:auxiliary_configuration.js">
+            </FileRef>
+            <FileRef
+               location = "group:cli.html">
+            </FileRef>
+            <FileRef
+               location = "group:cli.js">
+            </FileRef>
+            <FileRef
+               location = "group:initial_setup.html">
+            </FileRef>
+            <FileRef
+               location = "group:initial_setup.js">
+            </FileRef>
+            <FileRef
+               location = "group:motor_outputs.html">
+            </FileRef>
+            <FileRef
+               location = "group:motor_outputs.js">
+            </FileRef>
+            <FileRef
+               location = "group:pid_tuning.html">
+            </FileRef>
+            <FileRef
+               location = "group:pid_tuning.js">
+            </FileRef>
+            <FileRef
+               location = "group:receiver.html">
+            </FileRef>
+            <FileRef
+               location = "group:receiver.js">
+            </FileRef>
+            <FileRef
+               location = "group:sensors.html">
+            </FileRef>
+            <FileRef
+               location = "group:sensors.js">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:i2c_scanner"
+         name = "i2c_scanner">
+         <FileRef
+            location = "group:i2c_scanner.ino">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Phoenix-kinematics"
+         name = "Phoenix-kinematics">
+         <FileRef
+            location = "group:LICENSE">
+         </FileRef>
+         <FileRef
+            location = "group:README.md">
+         </FileRef>
+         <Group
+            location = "group:sensors"
+            name = "sensors">
+            <FileRef
+               location = "group:ADXL345.h">
+            </FileRef>
+            <FileRef
+               location = "group:BMA180.h">
+            </FileRef>
+            <FileRef
+               location = "group:ITG3200.h">
+            </FileRef>
+            <FileRef
+               location = "group:kinematics_ARG.h">
+            </FileRef>
+            <FileRef
+               location = "group:kinematics_CMP.h">
+            </FileRef>
+            <FileRef
+               location = "group:kinematics_DCM.h">
+            </FileRef>
+            <FileRef
+               location = "group:math.h">
+            </FileRef>
+            <FileRef
+               location = "group:mpu6050.h">
+            </FileRef>
+            <FileRef
+               location = "group:sensors.h">
+            </FileRef>
+            <FileRef
+               location = "group:sensors.ino">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:visualization"
+            name = "visualization">
+            <FileRef
+               location = "group:background.js">
+            </FileRef>
+            <Group
+               location = "group:css"
+               name = "css">
+               <Group
+                  location = "group:fonts"
+                  name = "fonts">
+                  <Group
+                     location = "group:woff"
+                     name = "woff">
+                     <FileRef
+                        location = "group:PT_Sans-Web-Bold.woff">
+                     </FileRef>
+                     <FileRef
+                        location = "group:PT_Sans-Web-BoldItalic.woff">
+                     </FileRef>
+                     <FileRef
+                        location = "group:PT_Sans-Web-Italic.woff">
+                     </FileRef>
+                     <FileRef
+                        location = "group:PT_Sans-Web-Regular.woff">
+                     </FileRef>
+                  </Group>
+               </Group>
+               <FileRef
+                  location = "group:fonts.css">
+               </FileRef>
+               <FileRef
+                  location = "group:style.css">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:images"
+               name = "images">
+               <FileRef
+                  location = "group:icon_128.png">
+               </FileRef>
+               <FileRef
+                  location = "group:icon_16.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:js"
+               name = "js">
+               <FileRef
+                  location = "group:custom.js">
+               </FileRef>
+               <FileRef
+                  location = "group:flotr2.min.js">
+               </FileRef>
+               <FileRef
+                  location = "group:jquery-1.8.3.min.js">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:main.html">
+            </FileRef>
+            <FileRef
+               location = "group:manifest.json">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:test_interruptions"
+         name = "test_interruptions">
+         <FileRef
+            location = "group:test_interruptions.ino">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:test_moteurs_PWM"
+         name = "test_moteurs_PWM">
+         <FileRef
+            location = "group:test_moteurs_PWM.ino">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:test_receiverAnalyze"
+         name = "test_receiverAnalyze">
+         <FileRef
+            location = "group:test_receiverAnalyze.ino">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:test_voltageCtrl"
+         name = "test_voltageCtrl">
+         <FileRef
+            location = "group:test_voltageCtrl.ino">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>
