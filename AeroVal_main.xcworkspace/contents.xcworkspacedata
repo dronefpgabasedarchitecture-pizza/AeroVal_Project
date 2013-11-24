@@ -5,7 +5,8 @@
       location = "group:AeroVal"
       name = "AeroVal">
       <FileRef
-         location = "group:main.ino">
+         location = "group:main.ino"
+         assignedFileDataType = "public.c-source">
       </FileRef>
       <Group
          location = "group:libraries"
@@ -297,7 +298,8 @@
          location = "group:test_interruptions"
          name = "test_interruptions">
          <FileRef
-            location = "group:test_interruptions.ino">
+            location = "group:test_interruptions.ino"
+            assignedFileDataType = "public.c-header">
          </FileRef>
       </Group>
       <Group

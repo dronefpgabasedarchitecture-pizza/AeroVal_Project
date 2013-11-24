@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AC8BB799-F7D4-46EC-8D1A-DD0C19000B88</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AeroVal_main</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>14A5158F-D8A6-4BBE-8019-597A3DCB0F4C</key>
+		<string>https://github.com/valentinpy/AeroVal_Project.git</string>
+		<key>69693C83-0549-47FE-BFD0-81FC8AB8BC7E</key>
+		<string>https://github.com/cTn-dev/baseflight-configurator.git</string>
+		<key>B860F4CB-67BA-4E3A-AA78-86FD140ACAC8</key>
+		<string>https://github.com/cTn-dev/Phoenix-kinematics.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AeroVal_main.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>14A5158F-D8A6-4BBE-8019-597A3DCB0F4C</key>
+		<string>..</string>
+		<key>69693C83-0549-47FE-BFD0-81FC8AB8BC7E</key>
+		<string>../Extras/baseflight-configurator</string>
+		<key>B860F4CB-67BA-4E3A-AA78-86FD140ACAC8</key>
+		<string>../Extras/Phoenix-kinematics</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/valentinpy/AeroVal_Project.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>14A5158F-D8A6-4BBE-8019-597A3DCB0F4C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>14A5158F-D8A6-4BBE-8019-597A3DCB0F4C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AeroVal_Project</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>69693C83-0549-47FE-BFD0-81FC8AB8BC7E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>baseflight-configurator</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B860F4CB-67BA-4E3A-AA78-86FD140ACAC8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Phoenix-kinematics</string>
+		</dict>
+	</array>
+</dict>
+</plist>
